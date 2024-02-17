@@ -23,8 +23,11 @@ pour envoyer sur le depot\
 pour definir le mail d'un utilisateur\
  ``` git config --global user.email sam@email.com ```
 
- Applique une configuration a tous le systeme d'exploitation\
+ Applique une configuration a tous le systeme d'exploitation(--global)\
  ```  git config --global user.email "your_email@example.com"  ``` 
+
+Alias (ici lancer "git ci" pour lancer git commit)\
+```git config --global alias.ci commit ```
 
 
  

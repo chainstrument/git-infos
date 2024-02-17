@@ -1,4 +1,9 @@
-#### Commandes git
+
+
+### Commande de base
+ 
+initialiser \
+```git init``` 
 
 pour ajouter dans la boite \
 ```git add .``` 
@@ -9,3 +14,8 @@ pour commiter avec message\
 pour envoyer sur le depot\
 ```git push ``` 
 
+
+### La configuration
+
+pour envoyer sur le depot\
+```git list ``` 

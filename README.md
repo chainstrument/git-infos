@@ -29,5 +29,18 @@ pour definir le mail d'un utilisateur\
 Alias (ici lancer "git ci" pour lancer git commit)\
 ```git config --global alias.ci commit ```
 
+### comparaison
+
+pour comparer\
+``` git diff ```
+
+pour comparer avec les elments staged\
+```git diff --staged ```
+
+pour comparer avec les element sur le distant\
+```git diff HEAD ```
+
+
+
 
  

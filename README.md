@@ -24,7 +24,6 @@ pour definir le mail d'un utilisateur\
  ``` git config --global user.email sam@email.com ```
 
  Applique une configuration a tous le systeme d'exploitation\
-
  ```  git config --global user.email "your_email@example.com"  ``` 
 
 
